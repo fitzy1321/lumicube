@@ -16,7 +16,7 @@ Open your browser and goto that IP address.
 
 You'll see the Abstract Factory Editor page, use that to update your lumicube script.
 
-> ![NOTE]  
+> [!NOTE]  
 > Update from 2026
 
 abstractfactory website and possibly servers are gone. Pretty sure the company isn't a thing anymore.
