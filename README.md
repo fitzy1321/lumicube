@@ -16,10 +16,10 @@ Open your browser and goto that IP address.
 
 You'll see the Abstract Factory Editor page, use that to update your lumicube script.
 
-> [!NOTE]  
+> [!IMPORTANT]  
 > Update from 2026
 
-abstractfactory website and possibly servers are gone. Pretty sure the company isn't a thing anymore.
+Abstract Factory's website and possibly servers are gone. Pretty sure the company isn't a thing anymore.
 
 - Link to the original Java Daemon for Raspberry Pi: <https://github.com/abstractfoundry/lumicube-daemon>
 
